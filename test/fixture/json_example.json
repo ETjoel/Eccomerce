@@ -1,0 +1,11 @@
+{
+  "statusCode": 200,
+  "message": "",
+  "data": {
+    "id": "6672776eb905525c145fe0bb",
+    "name": "Anime website",
+    "description": "Explore anime characters.",
+    "price": 123,
+    "imageUrl": "/Users/joel/Desktop/home_page.png"
+  }
+}
